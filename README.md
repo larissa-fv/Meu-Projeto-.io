@@ -4,6 +4,8 @@ Atividade Somativa 1 PucPR DevOps
 
 ### **Resumo da Proposta da Atividade Somativa 1**
 
+Link: https://larissa-fv.github.io/Meu-Projeto-/
+
 **Objetivo:**
 O objetivo desta atividade é "dockerizar" uma aplicação existente que você está desenvolvendo nas atividades formativas anteriores. Isso significa criar um ambiente Docker para sua aplicação, permitindo que ela seja executada dentro de um container.
 
